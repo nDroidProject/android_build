@@ -418,6 +418,7 @@ function add_lunch_combo()
 }
 
 # add the default one here
+add_lunch_combo ti_nspire-eng
 add_lunch_combo generic-eng
 
 # if we're on linux, add the simulator.  There is a special case
